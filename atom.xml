@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/Bent1ey/GT</id>
+    <id>https://https://github.com/Bent1ey/gt.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-03T23:53:17.909Z</updated>
+    <updated>2020-07-04T00:03:35.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/Bent1ey/GT"/>
-    <link rel="self" href="https://github.com/Bent1ey/GT/atom.xml"/>
+    <link rel="alternate" href="https://https://github.com/Bent1ey/gt.github.io"/>
+    <link rel="self" href="https://https://github.com/Bent1ey/gt.github.io/atom.xml"/>
     <subtitle>GT</subtitle>
-    <logo>https://github.com/Bent1ey/GT/images/avatar.png</logo>
-    <icon>https://github.com/Bent1ey/GT/favicon.ico</icon>
+    <logo>https://https://github.com/Bent1ey/gt.github.io/images/avatar.png</logo>
+    <icon>https://https://github.com/Bent1ey/gt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/Bent1ey/GT/post/hello-gridea/</id>
-        <link href="https://github.com/Bent1ey/GT/post/hello-gridea/">
+        <id>https://https://github.com/Bent1ey/gt.github.io/post/hello-gridea/</id>
+        <link href="https://https://github.com/Bent1ey/gt.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
